@@ -1,6 +1,9 @@
 class Person
 
-def initia
+def initialize(name)
+  persons_name = name
+end
+
 
 
 end
